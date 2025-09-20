@@ -1,0 +1,5 @@
+require("config.lazy")
+require("config.keymap")
+require("config.transparent")
+require("config.options")
+require("config.lsp")
