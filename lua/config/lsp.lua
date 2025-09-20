@@ -33,4 +33,4 @@ vim.api.nvim_create_autocmd("LspAttach", {
 
 vim.lsp.enable({ "pyright" })
 vim.lsp.enable({ "gopls" })
-vim.lsp.enable({ "bacon-ls" })
+vim.lsp.enable({ "rust-analyzer" })
